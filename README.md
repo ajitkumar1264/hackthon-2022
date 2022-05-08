@@ -28,11 +28,6 @@
 ![App Screenshot](https://github.com/ajitkumar1264/hackthon-hackdefine-2022/blob/master1/image/logo.png?raw=true)
 
 
-## 🛠 Skills
-1. Html
-2. Java script
-3. Css
-
 
 ## Screenshots
 
