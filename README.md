@@ -12,7 +12,7 @@
 
 - [@Ajitkumar Vaghela](https://github.com/ajitkumar1264)
 - [@Saurav Sutaria](https://github.com/Saurav-Sutaria)
-- [@Mohmadamin Lodhiya](https://github.com/Mahmadamin08)
+- [@Mahmadamin Lodhiya](https://github.com/Mahmadamin08)
 - [@Sajan pande](https://github.com/sajan84)
 
 
@@ -44,11 +44,8 @@
 1.  https://ajitkumar1264.github.io/hackthon-hackdefine-2022/
 
 
-## Feedback
-
-If you have any feedback, please reach out to us at vaghelaajit464@gmail.com
 
 
-## 🚀 About Me
-we all are beginer web developer...
+
+
 
